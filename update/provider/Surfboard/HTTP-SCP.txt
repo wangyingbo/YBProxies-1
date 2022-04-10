@@ -1,0 +1,50 @@
+[HTTPS] [🇦🇺-AU] = http, au.gotochinatown.net, 10930, username=yaojiayu246@gmail.com, password=73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇭🇰-HK] 1 = http, h890361.droplet.today, 11545, username=dcf12c7e7d, password=26bae9b023, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇭🇰-HK] 2 = http, h961359.droplet.today, 11545, username=dcf12c7e7d, password=26bae9b023, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇭🇰-HK] 3 = http, pccw.stunnel.vip, 4700, username=yaojiayu246@gmail.com, password=73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇭🇰-HK] 4 = http, 120.232.251.206, 29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 1 = http, 120.232.251.206, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 10 = http, 183.240.9.29, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 11 = http, 183.240.9.29, 29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 12 = http, 183.240.9.29, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 13 = http, 183.240.9.29, 29983, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 14 = http, 183.240.9.29, 29984, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 15 = http, 183.240.9.29, 29987, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 16 = http, 183.240.9.29, 29988, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 17 = http, 183.240.9.30, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 18 = http, 183.240.9.30, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 19 = http, 183.240.9.30, 29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 2 = http, 183.240.9.28, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 20 = http, 183.240.9.30, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 21 = http, 183.240.9.30, 29983, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 22 = http, 183.240.9.30, 29984, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 23 = http, 183.240.9.30, 29987, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 24 = http, 183.240.9.30, 29988, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 25 = http, 183.240.9.31, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 26 = http, 183.240.9.31, 29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 27 = http, 183.240.9.31, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 28 = http, 183.240.9.31, 29983, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 29 = http, 183.240.9.31, 29984, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 3 = http, 183.240.9.28, 29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 30 = http, 183.240.9.31, 29985, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 31 = http, 183.240.9.31, 29987, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 32 = http, 183.240.9.31, 29988, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 4 = http, 183.240.9.28, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 5 = http, 183.240.9.28, 29983, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 6 = http, 183.240.9.28, 29984, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 7 = http, 183.240.9.28, 29987, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 8 = http, 183.240.9.28, 29988, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇨🇳-CN->🇸🇬-SG] 9 = http, 183.240.9.29, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇩🇪-DE] 1 = http, de.gotochinatown.net, 10887, username=2068459124@qq.com, password=8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇩🇪-DE] 2 = http, de.gotochinatown.net, 10887, username=yaojiayu246@gmail.com, password=73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇩🇪-DE] 3 = http, h961359.droplet.today, 11745, username=dcf12c7e7d, password=26bae9b023, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇩🇪-DE] 4 = http, h961684.droplet.today, 11745, username=dcf12c7e7d, password=26bae9b023, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇬🇧-GB] = http, uk.gotochinatown.net, 10882, username=yaojiayu246@gmail.com, password=73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇮🇳-IN] = http, in.gotochinatown.net, 10884, username=yaojiayu246@gmail.com, password=73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇯🇵-JP] 1 = http, h890361.droplet.today, 11445, username=dcf12c7e7d, password=26bae9b023, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇯🇵-JP] 2 = http, h961359.droplet.today, 11445, username=dcf12c7e7d, password=26bae9b023, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇯🇵-JP] 3 = http, h961684.droplet.today, 11445, username=dcf12c7e7d, password=26bae9b023, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇯🇵-JP] 4 = http, jc.ap.fastqvpn.com, 29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇹🇼-TW] = http, h3816tw.droplet.today, 20443, username=dcf12c7e7d, password=26bae9b023, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇺🇸-US] 1 = http, h961359.droplet.today, 11245, username=dcf12c7e7d, password=26bae9b023, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] [🇺🇸-US] 2 = http, h961684.droplet.today, 11245, username=dcf12c7e7d, password=26bae9b023, tls=true, skip-cert-verify=true, tfo=false, udp-relay=true

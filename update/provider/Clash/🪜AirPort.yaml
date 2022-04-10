@@ -1,0 +1,6 @@
+proxies:
+  - {name: "[Trojan] [🇭🇰-HK] 2", server: tj-02.t8737.shop, port: 11223, type: trojan, password: 64d6f61b-a2da-403c-929a-c0382a63926b, skip-cert-verify: true, udp: true}
+  - {name: "[Trojan] [🇭🇰-HK] 3", server: tj-03.t8737.shop, port: 11223, type: trojan, password: 64d6f61b-a2da-403c-929a-c0382a63926b, skip-cert-verify: true, udp: true}
+  - {name: "[Trojan] [🇭🇰-HK] 4", server: tj-04.t8737.shop, port: 11223, type: trojan, password: 64d6f61b-a2da-403c-929a-c0382a63926b, skip-cert-verify: true, udp: true}
+  - {name: "[Trojan] [🇸🇬-SG] 10", server: tj-10.t8737.shop, port: 11223, type: trojan, password: 64d6f61b-a2da-403c-929a-c0382a63926b, skip-cert-verify: true, udp: true}
+  

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "remarks": "moonsub",
+    "site": "https://hi.moon365.workers.dev/free",
+    "url": "https://flag.moon365.workers.dev/moon365free/clash",
+    "enabled": true
+  },
+  {
+    "id": 1,
+    "remarks": "get_subscribe",
+    "site": "https://github.com/ermaozi/get_subscribe",
+    "url": "https://raw.githubusercontent.com/666greatChina888/Proxies/master/subscribe/clash.yml",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "remarks": "source",
+    "site": "https://raw.githubusercontent.com/666greatChina888/Proxies/master/sub/README.md",
+    "url": "http://cloud.scsevers.cf/getSubscription.php|https://suo.yt/BWbwt4v",
+    "enabled": false
+  }
+]

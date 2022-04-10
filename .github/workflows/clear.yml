@@ -1,0 +1,19 @@
+name: weekly clear
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * 1'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: clear commit
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git checkout --orphan new_branch
+        git commit -m "初始化仓库"
+        git branch -D master
+        git branch -m master
+        git push -f origin master
