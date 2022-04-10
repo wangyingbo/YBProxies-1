@@ -232,12 +232,12 @@
 </details>
 
 ### 所有节点
-合并节点总数: `29`
+合并节点总数: `427`
 [节点链接](https://raw.githubusercontent.com/666greatChina888/Proxies/master/sub/sub_merge_yaml.yml)
 
 ### 节点来源
-- [moonsub](https://hi.moon365.workers.dev/free), 节点数量: `1`
-- [get_subscribe](https://github.com/ermaozi/get_subscribe), 节点数量: `1`
+- [moonsub](https://hi.moon365.workers.dev/free), 节点数量: `253`
+- [get_subscribe](https://github.com/ermaozi/get_subscribe), 节点数量: `145`
 - [source](https://raw.githubusercontent.com/666greatChina888/Proxies/master/sub/README.md), 节点数量: `29`
 
 ## 客户端选择
